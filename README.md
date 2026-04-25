@@ -1,7 +1,7 @@
 # Olá, eu sou o Marcos Vinícius 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinihellmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinihellmann&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihellmann&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8" alt="Top Languages" height="180">
 </div>
 
@@ -51,5 +51,5 @@ Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixona
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=vinihellmann&theme=tokyonight" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinihellmann&theme=tokyonight" alt="GitHub Streak" height="150">
 </div>
