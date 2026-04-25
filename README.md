@@ -1,24 +1,55 @@
-# Olá 👋 Como está?
-Me chamo Marcos Vinicius, sou bacharel em Ciência da Computação.
+# Olá, eu sou o Marcos Vinícius 👋
 
-## Sobre
-- 💻 Trabalho como desenvolvedor web e mobile
-- 📖 Focado em React e Flutter
-
-## Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinihellmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihellmann&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8" alt="Top Languages" height="180">
 </div>
-  
-## Contato
-<div> 
-  <a href="mailto:marcosvhd1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-hellmann-2776b6229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### 🚀 Sobre Mim
+Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixonado por criar soluções robustas e escaláveis. Atualmente focado em ecossistemas de alta performance como **Flutter** e **React**.
+
+- 🔭 Atualmente trabalhando na **Innova Connect**.
+- 📱 Especialista em aplicações **Mobile Offline-First** e sistemas ERP complexos.
+- ⚡ Busco sempre o equilíbrio entre design premium (UX/UI) e código limpo (Clean Architecture).
+- 🌐 Confira meu currículo completo: [vinihellmann.github.io/curriculo](https://vinihellmann.github.io/curriculo/)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Mobile**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+</div>
+
+#### **Frontend**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+</div>
+
+#### **Backend & Database**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
+---
+
+### 📫 Vamos conversar?
+<div style="display: inline_block">
+  <a href="mailto:marcosvhd1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcos-hellmann-2776b6229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.herokuapp.com/?user=vinihellmann&theme=tokyonight" alt="GitHub Streak" height="150">
 </div>
