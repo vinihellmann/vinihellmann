@@ -5,13 +5,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihellmann&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8" alt="Top Languages" height="180">
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinihellmann&theme=tokyo-night" width="100%">
+</p>
+
 ### 🚀 Sobre Mim
 Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixonado por criar soluções robustas e escaláveis. Atualmente focado em ecossistemas de alta performance como **Flutter** e **React**.
 
 - 🔭 Atualmente trabalhando na **Innova Connect**.
 - 📱 Especialista em aplicações **Mobile Offline-First** e sistemas ERP complexos.
 - ⚡ Busco sempre o equilíbrio entre design premium (UX/UI) e código limpo (Clean Architecture).
-- 🌐 Confira meu currículo completo: [vinihellmann.github.io/curriculo](https://vinihellmann.github.io/curriculo/)
+- 🌐 Confira meu currículo online: [vinihellmann.github.io/curriculo](https://vinihellmann.github.io/curriculo/)
 
 ---
 
