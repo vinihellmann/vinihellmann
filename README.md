@@ -1,18 +1,10 @@
-# Olá, eu sou o Marcos Vinícius 👋
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinihellmann&theme=tokyonight" alt="GitHub Streak" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinihellmann&layout=compact&theme=tokyonight&hide_progress=true&langs_count=8" alt="Top Languages" height="180">
-</div>
-
-### 🚀 Sobre Mim
+### Sobre Mim
 Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixonado por criar soluções robustas e escaláveis. Atualmente focado em ecossistemas de alta performance como **Flutter** e **React**.
 
 - 🔭 Atualmente trabalhando na **Innova Connect**.
 - 📱 Especialista em aplicações **Mobile Offline-First** e sistemas ERP complexos.
 - ⚡ Busco sempre o equilíbrio entre design premium (UX/UI) e código limpo (Clean Architecture).
-- 🌐 Confira meu currículo online: [vinihellmann.github.io/curriculo](https://vinihellmann.github.io/curriculo/)
-
+- 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
