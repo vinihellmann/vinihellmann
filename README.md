@@ -3,7 +3,7 @@ Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixona
 - 🔭 Atualmente trabalhando na **Innova Connect**.
 - 📱 Especialista em aplicações **Mobile Offline-First** e sistemas ERP complexos.
 - ⚡ Busco sempre o equilíbrio entre design premium (UX/UI) e código limpo (Clean Architecture).
-- 
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
