@@ -1,4 +1,3 @@
-### Sobre Mim
 Bacharel em **Ciência da Computação** e **Desenvolvedor Full Stack** apaixonado por criar soluções robustas e escaláveis. Atualmente focado em ecossistemas de alta performance como **Flutter** e **React**.
 
 - 🔭 Atualmente trabalhando na **Innova Connect**.
